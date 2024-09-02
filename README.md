@@ -16,6 +16,9 @@
 
 ## Installation:
 <p> Open the link list below:
+<br>
+
+[Launch Note Taker](https://note-taker-7rff.onrender.com/)
 
 ## Usage:
 <p> When you first open the link listed above you are met with no notes currently added.  Type in the title field your desired note title.  Type in the text field you desired note text.  Click the save button.  You will see a new note populate to the left of your screen.  You can continue to add as many notes as you need.  Click on any note listed on the left of your screen.  This will display the note contents.  If you are adding in another note but decide you do not want to add that not in the upper right corner you can click the clear button to clear all input fields.  When you have completed a note or are just simply done with that note click the trash button next to your desired note.  This will remove your note.  Repeat this process, Enjoy!  
